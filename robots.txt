@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://joellehrheuer-code.github.io/joel271997-community/sitemap.xml
